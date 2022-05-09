@@ -10,3 +10,5 @@ def saludar_local():
 
 saludar()
 saludar_local()
+
+print("testing")
